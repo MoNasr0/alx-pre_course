@@ -1,2 +1,3 @@
-“my second commit”\n
+“my second commit”
+
 only commit from github interface
